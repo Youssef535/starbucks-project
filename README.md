@@ -74,7 +74,7 @@ Clone the repository
 <!-- CONTRIBUTING -->
 ## Contributing
 
-**This Landing Page** is open-source and open to contributors. We apperciate all of your efforts making Crypto Cap a reliable environment.
+**This Landing Page** is open-source and open to contributors. We apperciate all of your efforts making The project a reliable environment.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
